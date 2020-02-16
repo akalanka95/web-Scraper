@@ -12,7 +12,7 @@ max_results_per_city = 100
 city_set = ['New+York','Toronto','Las+Vegas']
 
 # job roles
-job_set = ['business+analyst','data+scientist']
+job_set = ['business+analyst','data+scientist',,'software+engineer']
 
 
 # file num
